@@ -29,7 +29,7 @@ Authors@R: c(
 	person("Jacques", "Serizay", role="ctb",
 		comment=c(ORCID="0000-0002-4295-0624")))
 Depends: R (>= 4.1.0), methods, Matrix, BiocGenerics (>= 0.40.0),
-	MatrixGenerics (>= 1.11.1), S4Vectors (>= 0.43.2), S4Arrays (>= 1.5.11)
+	MatrixGenerics (>= 1.6.0), S4Vectors (>= 0.32.4), S4Arrays (>= 1.5.11)
 Imports: utils, stats, matrixStats, IRanges, XVector
 LinkingTo: S4Vectors, IRanges, XVector
 Suggests: HDF5Array, ExperimentHub, testthat, knitr, rmarkdown, BiocStyle
