@@ -28,7 +28,7 @@ Authors@R: c(
 		comment=c(ORCID="0000-0002-3944-4309")),
 	person("Jacques", "Serizay", role="ctb",
 		comment=c(ORCID="0000-0002-4295-0624")))
-Depends: R (>= 4.1.0), methods, Matrix, BiocGenerics (>= 0.43.1),
+Depends: R (>= 4.1.0), methods, Matrix, BiocGenerics (>= 0.40.0),
 	MatrixGenerics (>= 1.11.1), S4Vectors (>= 0.43.2), S4Arrays (>= 1.5.11)
 Imports: utils, stats, matrixStats, IRanges, XVector
 LinkingTo: S4Vectors, IRanges, XVector
